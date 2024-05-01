@@ -1,0 +1,3 @@
+C:/Users/Rares/Desktop/Abonament/cmake-build-debug/CMakeFiles/Abonament.dir
+C:/Users/Rares/Desktop/Abonament/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rares/Desktop/Abonament/cmake-build-debug/CMakeFiles/rebuild_cache.dir
