@@ -4,7 +4,7 @@ Welcome to Subscription-Manager, your ultimate subscription management tool!
 
 ## About
 
-Subscription-Manager is a lightweight subscription management system designed to help you keep track of your clients' memberships effortlessly.
+An implementation of a subscription and customer management system, providing classes for subscriptions, persons, and clients.
 
 ## Features
 
