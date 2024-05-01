@@ -4,7 +4,7 @@ Welcome to Subscription-Manager, your ultimate subscription management tool!
 
 ## About
 
-An implementation of a subscription and customer management system, providing classes for subscriptions, persons, and clients.
+An implementation of a subscription and customer management system, providing classes and derived classes using virtual functions, downcasting, upcasting, static variables, static functions and more for subscriptions, persons, and clients.
 
 ## Features
 
