@@ -15,9 +15,9 @@ Subscription-Manager is a lightweight subscription management system designed to
 
 ## Getting Started
 
-1. Clone the repository
-2. Navigate to the project directory
-3. Open the project in your favorite code editor
+1. Clone the repository.
+2. Navigate to the project directory.
+3. Open the project in your favorite code editor.
 4. Run the application and start managing your subscriptions!
 
 ## Usage
@@ -26,7 +26,7 @@ Subscription-Manager is a lightweight subscription management system designed to
 The application provides a user-friendly menu interface for performing various tasks:
 
 - **ADD**: Read and add a new subscriber.
-- **REMOVE**: Remove a subscriber from the database.
+- **REMOVE**: Remove a subscriber.
 - **DISPLAY**: Display all subscribers.
 - **TOTAL_PRET**: Display the total revenue collected from all subscribers.
 - **ABONATI_PREMIUM**: Display the number of premium subscribers.
